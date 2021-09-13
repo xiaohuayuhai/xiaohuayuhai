@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xiaohuayuhai
 - 👀 I’m interested in program
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning IOT
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me with wechat pln031
 
 <!---
 xiaohuayuhai/xiaohuayuhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
