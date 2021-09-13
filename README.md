@@ -2,7 +2,7 @@
 - 👀 I’m interested in program
 - 🌱 I’m currently learning IOT
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me with wechat pln031
+- 📫 YOu can reach me in wechat pln031
 
 <!---
 xiaohuayuhai/xiaohuayuhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
